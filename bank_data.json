@@ -1,0 +1,176 @@
+[
+    {
+      "IFSC": "SBIN0000848",
+      "BANK": "State Bank of India",
+      "BRANCH": "Chennai Main",
+      "ADDRESS": "Rajaji Salai, Chennai, Tamil Nadu",
+      "REGION": "chennai",
+      "CONTACT": "044-25234405"
+    },
+    {
+      "IFSC": "ICIC0006003",
+      "BANK": "ICICI Bank",
+      "BRANCH": "Coimbatore",
+      "ADDRESS": "Avinashi Road, Coimbatore, Tamil Nadu",
+      "REGION": "coimbatore",
+      "CONTACT": "1860-120-7777"
+    },
+    {
+      "IFSC": "HDFC0001234",
+      "BANK": "HDFC Bank",
+      "BRANCH": "Madurai",
+      "ADDRESS": "Goripalayam, Madurai, Tamil Nadu",
+      "REGION": "madurai",
+      "CONTACT": "044-61606161"
+    },
+    {
+      "IFSC": "CBIN0280810",
+      "BANK": "Central Bank of India",
+      "BRANCH": "Salem",
+      "ADDRESS": "Leigh Bazar, Salem, Tamil Nadu",
+      "REGION": "salem",
+      "CONTACT": "0427-2335467"
+    },
+    {
+      "IFSC": "IDIB000T024",
+      "BANK": "Indian Bank",
+      "BRANCH": "Trichy Main",
+      "ADDRESS": "Chatram Bus Stand, Trichy, Tamil Nadu",
+      "REGION": "trichy",
+      "CONTACT": "0431-2702431"
+    },
+    {
+      "IFSC": "UBIN0530786",
+      "BANK": "Union Bank of India",
+      "BRANCH": "Tirunelveli",
+      "ADDRESS": "Main Road, Tirunelveli, Tamil Nadu",
+      "REGION": "tirunelveli",
+      "CONTACT": "0462-2332167"
+    },
+    {
+      "BANK": "State Bank of India",
+      "BRANCHES": [
+        {
+          "BRANCH_NAME": "Anna Nagar West",
+          "IFSC_CODE": "SBIN0001234",
+          "ADDRESS": "18th Main Road, Anna Nagar West, Chennai, Tamil Nadu",
+          "CONTACT": "044-12345678"
+        },
+        {
+          "BRANCH_NAME": "Adyar",
+          "IFSC_CODE": "SBIN0005678",
+          "ADDRESS": "LB Road, Adyar, Chennai, Tamil Nadu",
+          "CONTACT": "044-87654321"
+        },
+        {
+          "BRANCH_NAME": "Tambaram",
+          "IFSC_CODE": "SBIN0012345",
+          "ADDRESS": "Tambaram Main Road, Chennai, Tamil Nadu",
+          "CONTACT": "044-11223344"
+        }
+      ]
+    },
+    {
+      "BANK": "Indian Bank",
+      "BRANCHES": [
+        {
+          "BRANCH_NAME": "Abhiramapuram",
+          "IFSC_CODE": "IND12345678",
+          "ADDRESS": "Sample Address, Abhiramapuram, Chennai",
+          "CONTACT": "1234567890"
+        },
+        {
+          "BRANCH_NAME": "Adyar",
+          "IFSC_CODE": "IND87654321",
+          "ADDRESS": "Sample Address, Adyar, Chennai",
+          "CONTACT": "0987654321"
+        },
+        {
+          "BRANCH_NAME": "Anna Nagar West",
+          "IFSC_CODE": "IND23456789",
+          "ADDRESS": "Sample Address, Anna Nagar West, Chennai",
+          "CONTACT": "1231231234"
+        },
+        {
+          "BRANCH_NAME": "T Nagar",
+          "IFSC_CODE": "IND34567890",
+          "ADDRESS": "Sample Address, T Nagar, Chennai",
+          "CONTACT": "4321432143"
+        }
+      ]
+    },
+    {
+      "BANKS": [
+        {
+          "BANK": "State Bank of India",
+          "BRANCHES": [
+            {
+              "BRANCH_NAME": "Kalpakkam",
+              "IFSC_CODE": "SBIN0002219",
+              "ADDRESS": "8th Avenue, DAE Township, Kalpakkam, Kanchipuram District, Tamil Nadu, Pin Code: 603102",
+              "CONTACT": "044-27481245"
+            }
+          ]
+        },
+        {
+          "BANK": "Canara Bank",
+          "BRANCHES": [
+            {
+              "BRANCH_NAME": "Kalpakkam",
+              "IFSC_CODE": "CNRB0002641",
+              "ADDRESS": "Near DAE Township, Kalpakkam, Kanchipuram District, Tamil Nadu, Pin Code: 603102",
+              "CONTACT": "044-27482030"
+            }
+          ]
+        },
+        {
+          "BANK": "HDFC Bank",
+          "BRANCHES": [
+            {
+              "BRANCH_NAME": "Kalpakkam",
+              "IFSC_CODE": "HDFC0002219",
+              "ADDRESS": "HDFC Bank, Kalpakkam, Kanchipuram District, Tamil Nadu, Pin Code: 603102",
+              "CONTACT": "044-27482214"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "BANKS": [
+        {
+          "BANK": "State Bank of India",
+          "BRANCHES": [
+            {
+              "BRANCH_NAME": "Padur",
+              "IFSC_CODE": "SBIN0002410",
+              "ADDRESS": "Padur Main Road, Padur, Kanchipuram District, Tamil Nadu, Pin Code: 603103",
+              "CONTACT": "044-27488112"
+            }
+          ]
+        },
+        {
+          "BANK": "Canara Bank",
+          "BRANCHES": [
+            {
+              "BRANCH_NAME": "Padur",
+              "IFSC_CODE": "CNRB0004417",
+              "ADDRESS": "Canara Bank, Padur, Kanchipuram District, Tamil Nadu, Pin Code: 603103",
+              "CONTACT": "044-27488299"
+            }
+          ]
+        },
+        {
+          "BANK": "HDFC Bank",
+          "BRANCHES": [
+            {
+              "BRANCH_NAME": "Padur",
+              "IFSC_CODE": "HDFC0002641",
+              "ADDRESS": "HDFC Bank, Padur, Kanchipuram District, Tamil Nadu, Pin Code: 603103",
+              "CONTACT": "044-27488330"
+            }
+          ]
+        }
+      ]
+    }
+  ]
